@@ -47,7 +47,8 @@ pkg install python git -y
 ### 2. Clone Repository
 
 ```bash
-git clone [https://github.com/sotora-dev/sssxdera.git](https://github.com/sotora-dev/sssxdera.git)
+git clone https://github.com/sotora-dev/sssxdera.git
+
 cd sssxdera
 
 ```
