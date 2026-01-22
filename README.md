@@ -112,7 +112,3 @@ python -m pip install requests
 
 **Use this script wisely.**
 Ensure you have permission before scanning any target. Stay ethical.
-
----
-
-*Developed by Shirokami Sotora | xDera Network*
