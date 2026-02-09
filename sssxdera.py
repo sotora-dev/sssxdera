@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 """
-SSSXDERA AUTOMATED EXPLOITATION FRAMEWORK v3.2.0 (BATCH EDITION)
-========================================================================
-PURPOSE: Advanced Cyber Offensive Operations
-AUTHOR: Shirokami Sotora | xDera Network
-LICENSE: FOR AUTHORIZED USE ONLY
+SSSXDERA AUTOMATED EXPLOITATION FRAMEWORK v3.2.0
 ========================================================================
 """
 
@@ -469,10 +465,12 @@ def process_single_target(target):
 def main():
     print(f"""
 {Col.RED}
-    SSSXDERA AUTOMATED EXPLOITATION FRAMEWORK v{VERSION}
-    CYBER OFFENSIVE OPERATIONS
-    Developed by Shrokami Sotora's System | xDera Network
-    Connect With Us: https://xdera.my.id
+    SSSXDERA AUTOMATED EXPLOITATION FRAMEWORK vv{VERSION}
+    ========================================================================
+    PURPOSE: Advanced Website Pentesting
+    AUTHOR: Shirokami Sotora | xDera Network
+    CONNECT WITH US: https://xdera.web.id
+    ========================================================================
 {Col.RESET}
     """)
     print(f"{Col.CYAN}Version: {VERSION} | Mode: LIVE TARGET (Automated Offensive){Col.RESET}")
